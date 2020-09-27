@@ -25,7 +25,7 @@ SECRET_KEY = 'esp#!p8i7=2(5=&=+^7e6h^2srvfskocl*0e_d1==15$9y-6q%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
